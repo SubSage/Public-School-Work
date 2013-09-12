@@ -1,0 +1,9 @@
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Release\PaintJob.exe.manifest
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Release\PaintJob.application
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Release\PaintJob.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Release\PaintJob.pdb
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Release\PaintJob.exe.manifest
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Release\PaintJob.application
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Release\PaintJob.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Release\PaintJob.pdb

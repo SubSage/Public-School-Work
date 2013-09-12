@@ -1,0 +1,5 @@
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Debug\PaintJob.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\bin\Debug\PaintJob.pdb
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Debug\PaintJob.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\PaintJob\PaintJob\obj\x86\Debug\PaintJob.pdb
